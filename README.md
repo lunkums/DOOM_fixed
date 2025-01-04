@@ -15,12 +15,14 @@ _Note_: Provided commands were tested on Linux Mint Victoria 21.2.
 - libc6-dev (`sudo apt-get install libc6-dev`)
 - libx11-dev (`sudo apt-get install libx11-dev`)
 - libxext-dev (`sudo apt-get install libxext-dev`)
+- libnsl-dev (`sudo apt-get install libnsl-dev`)
 
 ### 32-bit
 
 - libc6-dev:i386 (`sudo apt-get install libc6-dev:i386`)
 - libx11-dev:i386 (`sudo apt-get install libx11-dev:i386`)
 - libxext-dev:i386 (`sudo apt-get install libxext-dev:i386`)
+- libnsl-dev (`sudo apt-get install libnsl-dev:i386`)
 
 ## Build and Run
 
